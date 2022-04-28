@@ -1,4 +1,5 @@
 # vedix-clone
+<h1 text-align="center">Vedix-Clone<h1/>
 <p id="description">A website that  provides toxin-free skincare and hair care products , for babies and adults.</p>
 
 <h2>🚀 Demo</h2>
@@ -26,7 +27,7 @@
  *  Develop  Home Page
  *  Make it Responsive to all screens
  *  Payment Page
-  
+ *  Authentication and validation  
   
 A collaborative project built by a team of 4 , completed in 4 days.
 
@@ -43,5 +44,3 @@ Technologies used in the project:
 *   MongoDb
 *   Express  
 
-
-Its is my first indivisual project. I created this to explore more.
