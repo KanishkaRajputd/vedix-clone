@@ -1,5 +1,4 @@
 # vedix-clone
-<h1 text-align="center">Vedix-Clone<h1/>
 <p id="description">A website that  provides toxin-free skincare and hair care products , for babies and adults.</p>
 
 <h2>🚀 Demo</h2>
