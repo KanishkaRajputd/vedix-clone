@@ -3,7 +3,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://myminiyoutube.netlify.app/](https://myminiyoutube.netlify.app/)
+[https://vedix-clone.netlify.app/](https://vedix-clone.netlify.app/)
 
 <h2>Project Screenshots:</h2>
 
