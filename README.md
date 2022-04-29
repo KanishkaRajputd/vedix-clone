@@ -1,6 +1,9 @@
 # vedix-clone
 <p id="description">A website that  provides toxin-free skincare and hair care products , for babies and adults.</p>
 
+<p>Snap-Shot</p>
+<img src="https://github.com/KanishkaRajputd/Kanishka-Portfolio/raw/main/src/assets/vedix.png"/>
+
 <h2>🚀 Demo</h2>
 
 [https://vedix-clone.netlify.app/](https://vedix-clone.netlify.app/)
